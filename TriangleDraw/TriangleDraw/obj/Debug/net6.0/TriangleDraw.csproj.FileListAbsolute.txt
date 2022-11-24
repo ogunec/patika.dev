@@ -1,0 +1,15 @@
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\bin\Debug\net6.0\TriangleDraw.exe
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\bin\Debug\net6.0\TriangleDraw.deps.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\bin\Debug\net6.0\TriangleDraw.runtimeconfig.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\bin\Debug\net6.0\TriangleDraw.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\bin\Debug\net6.0\TriangleDraw.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.csproj.AssemblyReference.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.AssemblyInfoInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.AssemblyInfo.cs
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.csproj.CoreCompileInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\refint\TriangleDraw.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\TriangleDraw.genruntimeconfig.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\TriangleDraw\TriangleDraw\obj\Debug\net6.0\ref\TriangleDraw.dll
