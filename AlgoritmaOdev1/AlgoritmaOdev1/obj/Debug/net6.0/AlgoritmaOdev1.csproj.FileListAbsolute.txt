@@ -1,0 +1,15 @@
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\bin\Debug\net6.0\AlgoritmaOdev1.exe
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\bin\Debug\net6.0\AlgoritmaOdev1.deps.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\bin\Debug\net6.0\AlgoritmaOdev1.runtimeconfig.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\bin\Debug\net6.0\AlgoritmaOdev1.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\bin\Debug\net6.0\AlgoritmaOdev1.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.csproj.AssemblyReference.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.AssemblyInfoInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.AssemblyInfo.cs
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.csproj.CoreCompileInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\refint\AlgoritmaOdev1.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\AlgoritmaOdev1.genruntimeconfig.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\AlgoritmaOdev1\AlgoritmaOdev1\obj\Debug\net6.0\ref\AlgoritmaOdev1.dll
