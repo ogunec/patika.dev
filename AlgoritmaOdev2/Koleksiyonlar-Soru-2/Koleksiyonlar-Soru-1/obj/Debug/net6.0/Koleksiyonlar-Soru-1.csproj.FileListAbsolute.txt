@@ -1,0 +1,15 @@
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.exe
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.deps.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\refint\Koleksiyonlar-Soru-1.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-1.dll
