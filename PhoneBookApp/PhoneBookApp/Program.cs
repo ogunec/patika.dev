@@ -9,8 +9,7 @@ List<Phone> phones = new List<Phone>()
     new Phone(){ FirstName="Esra",LastName="Balcı",PhoneNumber="1108007070"},
     new Phone(){ FirstName="İsmail",LastName="Kalan",PhoneNumber="1107006060"},
     new Phone(){ FirstName="Ada",LastName="Zorlu",PhoneNumber="1106005050"},
-    new Phone(){ FirstName="Yağmur",LastName="Kurt",PhoneNumber="1106305050"},
-    new Phone(){ FirstName="Onur",LastName="Kurt",PhoneNumber="1105805050"}
+    new Phone(){ FirstName="Yağmur",LastName="Kurt",PhoneNumber="1106305050"}
 };
 while (true)
 {
