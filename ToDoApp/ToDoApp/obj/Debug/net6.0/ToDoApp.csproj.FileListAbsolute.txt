@@ -1,0 +1,15 @@
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\bin\Debug\net6.0\ToDoApp.exe
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\bin\Debug\net6.0\ToDoApp.deps.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\bin\Debug\net6.0\ToDoApp.runtimeconfig.json
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\bin\Debug\net6.0\ToDoApp.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\bin\Debug\net6.0\ToDoApp.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\refint\ToDoApp.dll
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.pdb
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ToDoApp.genruntimeconfig.cache
+C:\Users\ogune\Desktop\Asp.NET Core\Projects\ToDoApp\ToDoApp\obj\Debug\net6.0\ref\ToDoApp.dll
